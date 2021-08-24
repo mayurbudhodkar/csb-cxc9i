@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mayurbudhodkar.github.io/csb-cxc9i/static/css/main.7b25795a.chunk.css",
+    "main.js": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/main.fbfc4d06.chunk.js",
+    "main.js.map": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/main.fbfc4d06.chunk.js.map",
+    "runtime-main.js": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/runtime-main.1133054f.js",
+    "runtime-main.js.map": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/runtime-main.1133054f.js.map",
+    "static/js/2.157c401f.chunk.js": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/2.157c401f.chunk.js",
+    "static/js/2.157c401f.chunk.js.map": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/2.157c401f.chunk.js.map",
+    "index.html": "https://mayurbudhodkar.github.io/csb-cxc9i/index.html",
+    "static/css/main.7b25795a.chunk.css.map": "https://mayurbudhodkar.github.io/csb-cxc9i/static/css/main.7b25795a.chunk.css.map",
+    "static/js/2.157c401f.chunk.js.LICENSE.txt": "https://mayurbudhodkar.github.io/csb-cxc9i/static/js/2.157c401f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1133054f.js",
+    "static/js/2.157c401f.chunk.js",
+    "static/css/main.7b25795a.chunk.css",
+    "static/js/main.fbfc4d06.chunk.js"
+  ]
+}
